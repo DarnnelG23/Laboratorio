@@ -1,0 +1,17 @@
+C:\Users\melo\source\repos\T8_MVMR_1157722\obj\Debug\net6.0-windows\T8_MVMR_1157722.csproj.AssemblyReference.cache
+C:\Users\melo\source\repos\T8_MVMR_1157722\obj\Debug\net6.0-windows\T8_MVMR_1157722.Form1.resources
+C:\Users\melo\source\repos\T8_MVMR_1157722\obj\Debug\net6.0-windows\T8_MVMR_1157722.csproj.GenerateResource.cache
+C:\Users\melo\source\repos\T8_MVMR_1157722\obj\Debug\net6.0-windows\T8_MVMR_1157722.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melo\source\repos\T8_MVMR_1157722\obj\Debug\net6.0-windows\T8_MVMR_1157722.AssemblyInfoInputs.cache
+C:\Users\melo\source\repos\T8_MVMR_1157722\obj\Debug\net6.0-windows\T8_MVMR_1157722.AssemblyInfo.cs
+C:\Users\melo\source\repos\T8_MVMR_1157722\obj\Debug\net6.0-windows\T8_MVMR_1157722.csproj.CoreCompileInputs.cache
+C:\Users\melo\source\repos\T8_MVMR_1157722\bin\Debug\net6.0-windows\T8_MVMR_1157722.exe
+C:\Users\melo\source\repos\T8_MVMR_1157722\bin\Debug\net6.0-windows\T8_MVMR_1157722.deps.json
+C:\Users\melo\source\repos\T8_MVMR_1157722\bin\Debug\net6.0-windows\T8_MVMR_1157722.runtimeconfig.json
+C:\Users\melo\source\repos\T8_MVMR_1157722\bin\Debug\net6.0-windows\T8_MVMR_1157722.dll
+C:\Users\melo\source\repos\T8_MVMR_1157722\bin\Debug\net6.0-windows\T8_MVMR_1157722.pdb
+C:\Users\melo\source\repos\T8_MVMR_1157722\obj\Debug\net6.0-windows\T8_MVMR_1157722.dll
+C:\Users\melo\source\repos\T8_MVMR_1157722\obj\Debug\net6.0-windows\refint\T8_MVMR_1157722.dll
+C:\Users\melo\source\repos\T8_MVMR_1157722\obj\Debug\net6.0-windows\T8_MVMR_1157722.pdb
+C:\Users\melo\source\repos\T8_MVMR_1157722\obj\Debug\net6.0-windows\T8_MVMR_1157722.genruntimeconfig.cache
+C:\Users\melo\source\repos\T8_MVMR_1157722\obj\Debug\net6.0-windows\ref\T8_MVMR_1157722.dll
