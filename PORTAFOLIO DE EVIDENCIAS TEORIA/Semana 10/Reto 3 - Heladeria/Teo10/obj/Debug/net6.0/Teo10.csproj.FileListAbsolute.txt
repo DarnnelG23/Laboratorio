@@ -1,0 +1,15 @@
+/Users/darnnel/Desktop/Teo10/Teo10/bin/Debug/net6.0/Teo10
+/Users/darnnel/Desktop/Teo10/Teo10/bin/Debug/net6.0/Teo10.deps.json
+/Users/darnnel/Desktop/Teo10/Teo10/bin/Debug/net6.0/Teo10.runtimeconfig.json
+/Users/darnnel/Desktop/Teo10/Teo10/bin/Debug/net6.0/Teo10.dll
+/Users/darnnel/Desktop/Teo10/Teo10/bin/Debug/net6.0/Teo10.pdb
+/Users/darnnel/Desktop/Teo10/Teo10/obj/Debug/net6.0/Teo10.csproj.AssemblyReference.cache
+/Users/darnnel/Desktop/Teo10/Teo10/obj/Debug/net6.0/Teo10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darnnel/Desktop/Teo10/Teo10/obj/Debug/net6.0/Teo10.AssemblyInfoInputs.cache
+/Users/darnnel/Desktop/Teo10/Teo10/obj/Debug/net6.0/Teo10.AssemblyInfo.cs
+/Users/darnnel/Desktop/Teo10/Teo10/obj/Debug/net6.0/Teo10.csproj.CoreCompileInputs.cache
+/Users/darnnel/Desktop/Teo10/Teo10/obj/Debug/net6.0/Teo10.dll
+/Users/darnnel/Desktop/Teo10/Teo10/obj/Debug/net6.0/refint/Teo10.dll
+/Users/darnnel/Desktop/Teo10/Teo10/obj/Debug/net6.0/Teo10.pdb
+/Users/darnnel/Desktop/Teo10/Teo10/obj/Debug/net6.0/Teo10.genruntimeconfig.cache
+/Users/darnnel/Desktop/Teo10/Teo10/obj/Debug/net6.0/ref/Teo10.dll

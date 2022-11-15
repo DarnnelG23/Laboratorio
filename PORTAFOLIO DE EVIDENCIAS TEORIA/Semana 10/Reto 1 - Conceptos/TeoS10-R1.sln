@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeoS10-R1", "TeoS10-R1\TeoS10-R1.csproj", "{B60922EA-BAAB-430C-B2F5-78518DB10E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B60922EA-BAAB-430C-B2F5-78518DB10E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60922EA-BAAB-430C-B2F5-78518DB10E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60922EA-BAAB-430C-B2F5-78518DB10E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60922EA-BAAB-430C-B2F5-78518DB10E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2755D62E-149B-480C-B1A4-C437CAAB380B}
+	EndGlobalSection
+EndGlobal
